@@ -2,6 +2,8 @@
 
 Ein interaktives Lern- und Prüfungswerkzeug für angehende Funkamateure in Deutschland. Dieses Tool hilft dir, dich effizient auf die Amateurfunkprüfung (E, A, B) vorzubereiten – mit aktuellen Fragen, Bildern und praktischen Features.
 
+> ⚠️ **Hinweis:** Dieses Projekt befindet sich noch in der Entwicklung (Work in Progress).
+
 ---
 
 ## ✨ Features
@@ -93,4 +95,3 @@ MIT License – frei nutzbar und veränderbar.
 ## 🙌 Danke
 
 Ein Projekt von [@mcules](https://github.com/mcules) und der Open-Source-Community – für alle, die auf die Frequenzen wollen!
-
