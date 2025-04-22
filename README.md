@@ -54,7 +54,7 @@ afu_pruefung/
 
 ## 🖼️ Bilder & Medien
 
-Die Bilder und SVGs stammen aus dem offiziellen Fragenkatalog und werden lokal eingebunden. Details zur Struktur und Herkunft findest du in der [README im `public/` Verzeichnis](./public/README.md).
+Die Bilder und SVGs stammen aus dem offiziellen Fragenkatalog und werden lokal eingebunden. Details zur Struktur und Herkunft findest du in der [README im `public/` Verzeichnis](./public/README.txt).
 
 ---
 
