@@ -8,7 +8,7 @@ Ein interaktives Lern- und Prüfungswerkzeug für angehende Funkamateure in Deut
 
 ## ✨ Features
 
-- ✅ **Alle offiziellen Prüfungsfragen** nach Klasse E, A und B
+- ✅ **Alle offiziellen Prüfungsfragen** nach Klasse N, E und A
 - 🖼️ **Darstellung der zugehörigen Bilder und SVGs**
 - 🔍 **Fragensuche** und gezieltes Lernen nach Themengebieten
 - 📊 **Statistiken** zum Lernfortschritt
