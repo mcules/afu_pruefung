@@ -1,6 +1,6 @@
 # 📡 AFU Prüfungstool
 
-Ein interaktives Lern- und Prüfungswerkzeug für angehende Funkamateure in Deutschland. Dieses Tool hilft dir, dich effizient auf die Amateurfunkprüfung (E, A, B) vorzubereiten – mit aktuellen Fragen, Bildern und praktischen Features.
+Ein interaktives Lern- und Prüfungswerkzeug für angehende Funkamateure in Deutschland. Dieses Tool hilft dir, dich effizient auf die Amateurfunkprüfung (N, E, A) vorzubereiten – mit aktuellen Fragen, Bildern und praktischen Features.
 
 > ⚠️ **Hinweis:** Dieses Projekt befindet sich noch in der Entwicklung (Work in Progress).
 
